@@ -13,7 +13,7 @@
 	* @param y 圆弧中心（圆心）的 y 轴坐标。
 	* @param radius 圆弧的半径。
 	* @param startAngle 圆弧的起始点， x轴方向开始计算，单位以弧度表示。
-	* @param endAngle 圆弧的重点， 单位以弧度表示。
+	* @param endAngle 圆弧的终点， 单位以弧度表示。
 	* @param anticlockwise 如果为 true，逆时针绘制圆弧，反之，顺时针绘制。
 ~~~ 
 
